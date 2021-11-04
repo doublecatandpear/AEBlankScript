@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "none",
+        "noLib": true,
+        "target": "es3",
+        "removeComments": true,
+        "outFile": "./BlankScript.jsx"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
